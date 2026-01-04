@@ -1,0 +1,16 @@
+{
+    "name": "AimBurst.UI.API",
+    "rootNamespace": "AimBurst.UI.API",
+    "references": [
+        "AimBurst.UI.Contracts"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

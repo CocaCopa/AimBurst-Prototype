@@ -1,0 +1,19 @@
+{
+    "name": "CocaCopa.Unity.Components.EditorTools",
+    "rootNamespace": "CocaCopa.Unity.Components.EditorTools",
+    "references": [
+        "CocaCopa.EditorUtils",
+        "CocaCopa.Unity"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

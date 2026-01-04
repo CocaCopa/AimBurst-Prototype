@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 16c939daf27dd3a42bd2a41755aa13e3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201948
+  packageName: Fancy Footsteps
+  packageVersion: 0.2
+  assetPath: Assets/Fancy Footsteps/Example/ExampleAssets/MoveExample.anim
+  uploadId: 483950

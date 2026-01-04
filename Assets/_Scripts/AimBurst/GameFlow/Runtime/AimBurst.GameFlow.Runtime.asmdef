@@ -1,0 +1,22 @@
+{
+    "name": "AimBurst.GameFlow.Runtime",
+    "rootNamespace": "AimBurst.GameFlow.Runtime",
+    "references": [
+        "CocaCopa.Core",
+        "CocaCopa.Logger.API",
+        "AimBurst.SceneControls.API",
+        "AimBurst.LevelLayout.API",
+        "AimBurst.ShootersLayout.API",
+        "AimBurst.UI.API",
+        "AimBurst.UI.Contracts"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

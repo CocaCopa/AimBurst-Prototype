@@ -1,0 +1,19 @@
+{
+    "name": "AimBurst.LevelLayout.Runtime",
+    "rootNamespace": "AimBurst.LevelLayout.Runtime",
+    "references": [
+        "CocaCopa.Primitives",
+        "CocaCopa.Logger.API",
+        "AimBurst.Core.Contracts",
+        "AimBurst.LevelLayout.Contracts"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

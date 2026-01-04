@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 880c519bb3845084fb22f3469527b782
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201948
+  packageName: Fancy Footsteps
+  packageVersion: 0.2
+  assetPath: Assets/Fancy Footsteps/Prefabs/Prefab_VFX_Footsteps_0.prefab
+  uploadId: 483950

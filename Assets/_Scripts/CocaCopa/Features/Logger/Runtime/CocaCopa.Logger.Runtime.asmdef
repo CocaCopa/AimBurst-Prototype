@@ -1,0 +1,17 @@
+{
+    "name": "CocaCopa.Logger.Runtime",
+    "rootNamespace": "CocaCopa.Logger.Runtime",
+    "references": [
+        "CocaCopa.Logger.API",
+        "CocaCopa.Logger.SPI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

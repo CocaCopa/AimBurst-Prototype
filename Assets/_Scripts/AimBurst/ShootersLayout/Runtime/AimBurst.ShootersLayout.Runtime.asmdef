@@ -1,0 +1,21 @@
+{
+    "name": "AimBurst.ShootersLayout.Runtime",
+    "rootNamespace": "AimBurst.ShootersLayout.Runtime",
+    "references": [
+        "CocaCopa.Primitives",
+        "CocaCopa.Logger.API",
+        "AimBurst.Core.Contracts",
+        "AimBurst.LevelLayout.Contracts",
+        "AimBurst.LevelLayout.API",
+        "AimBurst.ShootersLayout.Contracts"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

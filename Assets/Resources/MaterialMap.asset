@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7644e75e17757f54c981d26aa948ac7b, type: 3}
+  m_Name: MaterialMap
+  m_EditorClassIdentifier: ThisIsBlast.ColorMap::ThisIsBlast.ColorMap.ShooterMaterialRegistry
+  entries:
+  - color: 0
+    material: {fileID: 2100000, guid: cda1855b7f7304a499e70f872916db05, type: 2}
+  - color: 1
+    material: {fileID: 2100000, guid: 07a99166aa9b17f46812748a57dd44d2, type: 2}
+  - color: 2
+    material: {fileID: 2100000, guid: d857c07caadf4c549a349857bc3aa11d, type: 2}
+  - color: 3
+    material: {fileID: 2100000, guid: 9b3a1e5909f676a4e9a571017603eac2, type: 2}
+  - color: 4
+    material: {fileID: 2100000, guid: 1956ac07bc1cc4e4987a612acf487a3e, type: 2}
+  - color: 5
+    material: {fileID: 2100000, guid: 27afde0cedd017e408672cc1010edeb4, type: 2}
+  - color: 6
+    material: {fileID: 2100000, guid: 511a939f27be1d040ac979cc0557f94f, type: 2}

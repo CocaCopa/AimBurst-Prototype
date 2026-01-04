@@ -1,0 +1,14 @@
+{
+    "name": "CocaCopa.SaveSystem.SPI",
+    "rootNamespace": "CocaCopa.SaveSystem.SPI",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

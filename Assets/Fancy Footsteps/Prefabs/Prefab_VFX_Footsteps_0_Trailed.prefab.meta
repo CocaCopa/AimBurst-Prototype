@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 641a02005ca17b140b26f36eae5bacd2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201948
+  packageName: Fancy Footsteps
+  packageVersion: 0.2
+  assetPath: Assets/Fancy Footsteps/Prefabs/Prefab_VFX_Footsteps_0_Trailed.prefab
+  uploadId: 483950

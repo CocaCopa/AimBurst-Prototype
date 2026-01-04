@@ -1,0 +1,16 @@
+{
+    "name": "AimBurst.LevelLayout.EditorTools",
+    "rootNamespace": "AimBurst.LevelLayout.EditorTools",
+    "references": [
+        "AimBurst.LevelLayout.Unity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

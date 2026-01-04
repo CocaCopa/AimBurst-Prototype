@@ -1,0 +1,17 @@
+{
+    "name": "CocaCopa.SaveSystem.Runtime",
+    "rootNamespace": "CocaCopa.SaveSystem.Runtime",
+    "references": [
+        "CocaCopa.SaveSystem.API",
+        "CocaCopa.SaveSystem.SPI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

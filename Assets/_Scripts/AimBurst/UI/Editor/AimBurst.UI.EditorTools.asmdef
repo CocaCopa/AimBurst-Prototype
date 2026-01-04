@@ -1,0 +1,19 @@
+{
+    "name": "AimBurst.UI.EditorTools",
+    "rootNamespace": "AimBurst.UI.EditorTools",
+    "references": [
+        "CocaCopa.EditorUtils",
+        "AimBurst.UI.Unity"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

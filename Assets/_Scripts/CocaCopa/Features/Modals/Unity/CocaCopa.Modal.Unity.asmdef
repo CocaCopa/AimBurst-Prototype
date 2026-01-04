@@ -1,0 +1,21 @@
+{
+    "name": "CocaCopa.Modal.Unity",
+    "rootNamespace": "CocaCopa.Modal.Unity",
+    "references": [
+        "Unity.TextMeshPro",
+        "CocaCopa.Unity",
+        "CocaCopa.Core",
+        "CocaCopa.Modal.Runtime",
+        "CocaCopa.Modal.Contracts",
+        "CocaCopa.Modal.SPI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,28 @@
+{
+    "name": "AimBurst.ShootersLayout.Unity",
+    "rootNamespace": "AimBurst.ShootersLayout.Unity",
+    "references": [
+        "Unity.TextMeshPro",
+        "CocaCopa.Core",
+        "CocaCopa.Primitives",
+        "CocaCopa.Unity",
+        "AimBurst.Core.Contracts",
+        "AimBurst.PrefabRegistry",
+        "AimBurst.ColorMap",
+        "AimBurst.LevelLayout.Contracts",
+        "AimBurst.LevelLayout.API",
+        "AimBurst.ShootersLayout.Runtime",
+        "AimBurst.ShootersLayout.Contracts",
+        "AimBurst.ShootersLayout.API",
+        "Chris.Outline"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

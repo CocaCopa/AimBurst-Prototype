@@ -1,0 +1,19 @@
+{
+    "name": "AimBurst.ShootersLayout.EditorTools",
+    "rootNamespace": "AimBurst.ShootersLayout.EditorTools",
+    "references": [
+        "CocaCopa.EditorUtils",
+        "AimBurst.ShootersLayout.Unity"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

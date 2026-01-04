@@ -1,0 +1,17 @@
+{
+    "name": "CocaCopa.Modal.API",
+    "rootNamespace": "CocaCopa.Modal.API",
+    "references": [
+        "CocaCopa.Modal.Unity",
+        "CocaCopa.Modal.Contracts"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

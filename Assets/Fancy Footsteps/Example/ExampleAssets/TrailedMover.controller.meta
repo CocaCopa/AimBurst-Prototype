@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 55a189a60d2e05e4190f4e00ae17c0d7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201948
+  packageName: Fancy Footsteps
+  packageVersion: 0.2
+  assetPath: Assets/Fancy Footsteps/Example/ExampleAssets/TrailedMover.controller
+  uploadId: 483950

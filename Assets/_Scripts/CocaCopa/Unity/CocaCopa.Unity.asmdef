@@ -1,0 +1,17 @@
+{
+    "name": "CocaCopa.Unity",
+    "rootNamespace": "CocaCopa.Unity",
+    "references": [
+        "CocaCopa.Core",
+        "CocaCopa.Primitives"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

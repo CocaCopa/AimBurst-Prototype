@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2d122ce1b0008bc41bca3659d4fbb9d6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201948
+  packageName: Fancy Footsteps
+  packageVersion: 0.2
+  assetPath: Assets/Fancy Footsteps/Shaders/S_VFX_Footsteps_Dissolve.shader
+  uploadId: 483950

@@ -1,0 +1,16 @@
+{
+    "name": "AimBurst.ColorMap",
+    "rootNamespace": "AimBurst.ColorMap",
+    "references": [
+        "AimBurst.Core.Contracts"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

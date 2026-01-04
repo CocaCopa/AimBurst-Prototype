@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa73ba170050e094e98e131cfce0164a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201948
+  packageName: Fancy Footsteps
+  packageVersion: 0.2
+  assetPath: Assets/Fancy Footsteps/Example/ExampleAssets/Plane.mat
+  uploadId: 483950

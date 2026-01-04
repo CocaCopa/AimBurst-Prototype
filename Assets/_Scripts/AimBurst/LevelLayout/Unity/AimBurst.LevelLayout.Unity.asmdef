@@ -1,0 +1,23 @@
+{
+    "name": "AimBurst.LevelLayout.Unity",
+    "rootNamespace": "AimBurst.LevelLayout.Unity",
+    "references": [
+        "CocaCopa.Primitives",
+        "CocaCopa.Unity",
+        "CocaCopa.Core",
+        "AimBurst.Core.Contracts",
+        "AimBurst.LevelLayout.API",
+        "AimBurst.PrefabRegistry",
+        "AimBurst.LevelLayout.Contracts",
+        "AimBurst.LevelLayout.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b45cbf53fcde064885369cd90286b5e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201948
+  packageName: Fancy Footsteps
+  packageVersion: 0.2
+  assetPath: Assets/Fancy Footsteps/Materials/S_VFX_Footsteps_Dissolve.mat
+  uploadId: 483950

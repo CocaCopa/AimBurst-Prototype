@@ -1,0 +1,16 @@
+{
+    "name": "AimBurst.GameFlow.Unity",
+    "rootNamespace": "AimBurst.GameFlow.Unity",
+    "references": [
+        "AimBurst.GameFlow.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

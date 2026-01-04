@@ -1,0 +1,17 @@
+{
+    "name": "AimBurst.ShootersLayout.API",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4e139c01d5ab73040903611cd6743d53",
+        "AimBurst.ShootersLayout.Contracts"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
