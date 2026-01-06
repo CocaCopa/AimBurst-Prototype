@@ -1,7 +1,7 @@
 # AimBurst – Prototype
 
-<img width="1579" height="881" alt="Screenshot 2026-01-03 121121" src="https://github.com/user-attachments/assets/83cac47e-21d1-4465-a5ef-a89e15bb6bf6" />
-<img width="1578" height="885" alt="Screenshot 2026-01-03 120729" src="https://github.com/user-attachments/assets/3fd4fba8-fafb-4852-a842-cee4e7090ba9" />  
+<img width="1579" height="881" alt="Screenshot 2026-01-03 121121" src="https://github.com/user-attachments/assets/77239a93-fc26-4c70-886d-513d953317cd" />
+<img width="1578" height="885" alt="Screenshot 2026-01-03 120729" src="https://github.com/user-attachments/assets/1554b05c-3fe4-485e-a17b-7d82b7587869" />  
 
 ## Quick Overview  
 
@@ -25,7 +25,7 @@ The project uses a modular, systems-based architecture that isolates core logic 
 
 **High-level view of the modular architecture used to separate pure C# logic from Unity-specific code.**  
 
-<img width="327" height="432" alt="Screenshot 2026-01-03 120005" src="https://github.com/user-attachments/assets/66206ee9-fa7b-4651-87b0-5efd7b5aab13" />  
+<img width="327" height="432" alt="Screenshot 2026-01-03 120005" src="https://github.com/user-attachments/assets/c9934fdd-5d2e-4b40-a922-4fa17ff45d8a" />  
 
 ### Design Intent
 
