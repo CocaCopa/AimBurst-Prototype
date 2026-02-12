@@ -19,41 +19,9 @@ https://youtu.be/8T-2RKw7Vqc
 
 ---
 
-## Architecture Overview  
-
-The project uses a modular, systems-based architecture that isolates core logic from feature-level systems, improving scalability and stability.  
-
-**High-level view of the modular architecture used to separate pure C# logic from Unity-specific code.**  
-
-<img width="327" height="432" alt="Screenshot 2026-01-03 120005" src="https://github.com/user-attachments/assets/c9934fdd-5d2e-4b40-a922-4fa17ff45d8a" />  
-
-### Design Intent
-
-This was designed based on commonly observed constraints in hyper-casual development:
-
-- Designers iterate frequently and should not depend on engineers for tuning
-- Gameplay values change often during soft-launch testing
-- Systems must be easy to extend or discard as mechanics evolve
-- Risky refactors should be isolated and contained
-
-### Implementation
-
-- **Assembly Definitions (asmdefs)** are used to clearly separate:
-  - Pure C# runtime logic
-  - Unity-specific behaviour and presentation
-- Core systems communicate through explicit boundaries rather than tight coupling
-- **No hardcoded gameplay values**:
-  - Behaviour is component-driven
-  - All tuning is performed via prefabs and prefab variants
-  - Designers can rebalance gameplay directly from the Inspector
-
-This structure prioritizes **iteration speed, stability, and maintainability** over one-off scripting.
-
----
-
 ## Gameplay Systems
 
-The prototype currently includes the following core mechanics:
+The prototype includes the following core mechanics:
 
 ### Core Mechanics
 
@@ -86,6 +54,47 @@ Levels are authored using a **custom Spawner system** designed to support rapid 
   - Reduction of configuration errors
 
 This allows new levels to be created or adjusted **without modifying code**, aligning with designer-driven workflows.
+
+---
+
+## Architecture Overview  
+
+In this project gameplay decisions are separated from Unity scene execution to keep rules isolated and iteration fast.  
+
+**High-level view of the modular architecture used to separate pure C# logic from Unity-specific code.**  
+
+<img width="327" height="432" alt="Screenshot 2026-01-03 120005" src="https://github.com/user-attachments/assets/c9934fdd-5d2e-4b40-a922-4fa17ff45d8a" />  
+
+### Core Principle  
+
+- Pure C# systems decide what should happen
+- Unity MonoBehaviours handle how it appears in the scene
+
+This prevents gameplay rules from being tightly coupled to scene objects and allows refactors without touching presentation code.
+
+### Structural Separation
+
+The project uses Assembly Definitions to enforce boundaries between:
+- Runtime (Pure C#)
+  - Game state transitions
+  - Win/Lose evaluation
+  - Target prioritization rules
+  - Shooter merging logic
+
+- Unity Layer
+  - MonoBehaviours
+  - Spawning
+  - Visual feedback
+  - Audio playback
+  - Scene interaction
+
+Unity components act as executors of decisions computed in the runtime layer.  
+
+This is due to gameplay values and mechanics changing frequently during development until final expections are met.
+- Rule changes require editing only runtime systems.
+- Scene behaviour remains stable.
+- Designers can rebalance via Inspector without modifying code.
+- Risky refactors stay localized instead of spreading across unrelated scripts.
 
 ---
 
